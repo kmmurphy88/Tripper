@@ -44,7 +44,7 @@ gem 'figaro', '>= 1.0.0.rc1'
 gem 'foundation-rails'
 gem 'haml-rails'
 gem 'high_voltage'
-gem 'pg'
+
 gem 'simple_form'
 
 group :development do
