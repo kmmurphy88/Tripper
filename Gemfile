@@ -10,7 +10,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'devise'
-gem 'figaro', '>= 1.0.0.rc1'
+gem 'omniauth'
+gem 'omniauth-twitter'
 gem 'haml-rails'
 gem 'foundation-rails', '5.4.3.1'
 gem 'high_voltage'
